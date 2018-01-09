@@ -1,0 +1,56 @@
+{
+	"yop tout le monde": {
+		"message": "Yop tout seul :laughing:"
+	},
+	"salut tout le monde": {
+		"message": "Salut tout seul :laughing:"
+	},
+	"bonjour tout le monde": {
+		"message": "Bonjour tout seule ! :laughing:"
+	},
+	"salut": {
+		"message": "L'empire te salut ! :wolf:"
+	},
+	"bonjour": {
+		"message": "Bonjour chère cytoyen ! :wolf:"
+	},
+	"bonne journée": {
+		"message": "Bonne journée, à plus tard"
+	},
+	"bonne soirée": {
+		"message": "Bonne soirée, à demain :wink:"
+	},
+	"bonne nuit": {
+		"message": "Bonne nuit, fais de beaux rêves :zzz:"
+	},
+	"yop": {
+		"message": "Yop, crache pas dedans :yum:"
+	},
+	"plop les gens": {
+		"message": "Plop :interrobang:"
+	},
+	"plop": {
+		"message": "Plop :interrobang:"
+	},
+	"hi": {
+		"message": "Hi, welcome"
+	},
+	"salut": {
+		"message": "Salut"
+	},
+	"la grande question sur la vie, l'univers et le reste": {
+		"message": "42"
+	},
+	"salut tous le monde":{
+		"message": "salut à toi, mais tu peux mettre un t à tout le monde :smiley:"
+	},
+	"sa va ?":{
+		"message": "oui et toi mais sinon Ça va c'est mieux :smiley:"
+	},
+    "coucou": {
+		"message": "coucou, comment va tu ?"
+	},
+	"bien et toi ?":{
+		"message": "très bien, je te remercie :smiley:"
+	},
+}
